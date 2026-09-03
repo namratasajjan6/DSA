@@ -1,4 +1,0 @@
-# Trees
-
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|

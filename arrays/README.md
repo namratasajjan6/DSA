@@ -1,4 +1,0 @@
-# Arrays
-
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|

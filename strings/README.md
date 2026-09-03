@@ -1,4 +1,0 @@
-# Strings
-
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|

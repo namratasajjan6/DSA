@@ -1,4 +1,0 @@
-# Backtracking
-
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|

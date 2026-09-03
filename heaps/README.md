@@ -1,4 +1,0 @@
-# Heaps
-
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|

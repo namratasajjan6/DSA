@@ -1,4 +1,0 @@
-# Greedy
-
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
