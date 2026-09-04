@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
 ## String
 |  |
@@ -29,5 +30,9 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/namratasajjan6/DSA/tree/master/0402-remove-k-digits) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
 
