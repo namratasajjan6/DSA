@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/namratasajjan6/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/namratasajjan6/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/namratasajjan6/DSA/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | ------- |
 | [0001-two-sum](https://github.com/namratasajjan6/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/namratasajjan6/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/namratasajjan6/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/namratasajjan6/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
@@ -61,6 +63,15 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/namratasajjan6/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/namratasajjan6/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/namratasajjan6/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
 
