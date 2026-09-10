@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/namratasajjan6/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/namratasajjan6/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/namratasajjan6/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/namratasajjan6/DSA/tree/master/0724-find-pivot-index) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/namratasajjan6/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0128-longest-consecutive-sequence](https://github.com/namratasajjan6/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/namratasajjan6/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/namratasajjan6/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/namratasajjan6/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/namratasajjan6/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
 
