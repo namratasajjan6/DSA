@@ -3,7 +3,7 @@ public:
     long long fun(vector<int>& piles,int mid, int h){
         long long hours=0;
         for (int i=0;i<piles.size();i++){
-            hours += (piles[i]+mid -1)/mid;
+            hours += ceil((double)piles[i] / mid);
         }
         return hours;
     }
