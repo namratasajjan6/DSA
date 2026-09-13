@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0069-sqrtx](https://github.com/namratasajjan6/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/namratasajjan6/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/namratasajjan6/DSA/tree/master/0367-valid-perfect-square) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/namratasajjan6/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/namratasajjan6/DSA/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/namratasajjan6/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
