@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/namratasajjan6/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/namratasajjan6/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/namratasajjan6/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0033-search-in-rotated-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/namratasajjan6/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/namratasajjan6/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/namratasajjan6/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
@@ -158,5 +160,9 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/namratasajjan6/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/namratasajjan6/DSA/tree/master/0724-find-pivot-index) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/namratasajjan6/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
 
