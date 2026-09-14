@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0724-find-pivot-index](https://github.com/namratasajjan6/DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/namratasajjan6/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/namratasajjan6/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/namratasajjan6/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/namratasajjan6/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/namratasajjan6/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/namratasajjan6/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0367-valid-perfect-square](https://github.com/namratasajjan6/DSA/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/namratasajjan6/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/namratasajjan6/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/namratasajjan6/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/namratasajjan6/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/namratasajjan6/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
