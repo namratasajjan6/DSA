@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/namratasajjan6/DSA/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/namratasajjan6/DSA/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0229-majority-element-ii](https://github.com/namratasajjan6/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/namratasajjan6/DSA/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/namratasajjan6/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/namratasajjan6/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/namratasajjan6/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/namratasajjan6/DSA/tree/master/0724-find-pivot-index) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/namratasajjan6/DSA/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/namratasajjan6/DSA/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/namratasajjan6/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/namratasajjan6/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/namratasajjan6/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0053-maximum-subarray](https://github.com/namratasajjan6/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/namratasajjan6/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/namratasajjan6/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0410-split-array-largest-sum](https://github.com/namratasajjan6/DSA/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/namratasajjan6/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/namratasajjan6/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/namratasajjan6/DSA/tree/master/0724-find-pivot-index) |
 ## Newton's Method
