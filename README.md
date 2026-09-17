@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/namratasajjan6/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/namratasajjan6/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/namratasajjan6/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/namratasajjan6/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/namratasajjan6/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/namratasajjan6/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/namratasajjan6/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/namratasajjan6/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/namratasajjan6/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0054-spiral-matrix](https://github.com/namratasajjan6/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/namratasajjan6/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/namratasajjan6/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/namratasajjan6/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
