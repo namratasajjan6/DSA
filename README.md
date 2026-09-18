@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | ------- |
 | [0402-remove-k-digits](https://github.com/namratasajjan6/DSA/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/namratasajjan6/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/namratasajjan6/DSA/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/namratasajjan6/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -190,5 +192,9 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/namratasajjan6/DSA/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/namratasajjan6/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
 
