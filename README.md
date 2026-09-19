@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0031-next-permutation](https://github.com/namratasajjan6/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/namratasajjan6/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/namratasajjan6/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/namratasajjan6/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/namratasajjan6/DSA/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/namratasajjan6/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/namratasajjan6/DSA/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/namratasajjan6/DSA/tree/master/1021-remove-outermost-parentheses) |
