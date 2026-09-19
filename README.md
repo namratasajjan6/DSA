@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | ------- |
 | [0014-longest-common-prefix](https://github.com/namratasajjan6/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/namratasajjan6/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/namratasajjan6/DSA/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/namratasajjan6/DSA/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/namratasajjan6/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0073-set-matrix-zeroes](https://github.com/namratasajjan6/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/namratasajjan6/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/namratasajjan6/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/namratasajjan6/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/namratasajjan6/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/namratasajjan6/DSA/tree/master/0560-subarray-sum-equals-k) |
