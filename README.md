@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0268-missing-number](https://github.com/namratasajjan6/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/namratasajjan6/DSA/tree/master/0367-valid-perfect-square) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
+| [1903-largest-odd-number-in-string](https://github.com/namratasajjan6/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0402-remove-k-digits](https://github.com/namratasajjan6/DSA/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/namratasajjan6/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/namratasajjan6/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | ------- |
 | [0402-remove-k-digits](https://github.com/namratasajjan6/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/namratasajjan6/DSA/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/namratasajjan6/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
