@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0205-isomorphic-strings](https://github.com/namratasajjan6/DSA/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/namratasajjan6/DSA/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
+| [0796-rotate-string](https://github.com/namratasajjan6/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/namratasajjan6/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/namratasajjan6/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -209,5 +210,9 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/namratasajjan6/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/namratasajjan6/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
 
