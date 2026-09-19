@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/namratasajjan6/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/namratasajjan6/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/namratasajjan6/DSA/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/namratasajjan6/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/namratasajjan6/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/namratasajjan6/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/namratasajjan6/DSA/tree/master/0031-next-permutation) |
@@ -201,5 +203,9 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/namratasajjan6/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/namratasajjan6/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
 
