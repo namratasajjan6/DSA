@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/namratasajjan6/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/namratasajjan6/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namratasajjan6/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/namratasajjan6/DSA/tree/master/0031-next-permutation) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/namratasajjan6/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/namratasajjan6/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/namratasajjan6/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/namratasajjan6/DSA/tree/master/0014-longest-common-prefix) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/namratasajjan6/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/namratasajjan6/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/namratasajjan6/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/namratasajjan6/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -236,5 +239,9 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/namratasajjan6/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/namratasajjan6/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
 
