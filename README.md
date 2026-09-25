@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/namratasajjan6/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/namratasajjan6/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/namratasajjan6/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/namratasajjan6/DSA/tree/master/0069-sqrtx) |
@@ -250,11 +251,13 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/namratasajjan6/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/namratasajjan6/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/namratasajjan6/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/namratasajjan6/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/namratasajjan6/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
 
