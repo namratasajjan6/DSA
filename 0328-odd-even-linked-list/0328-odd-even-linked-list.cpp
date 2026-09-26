@@ -27,7 +27,7 @@ public:
 
 
     }
-        odd->next = evenHead;
+    odd->next = evenHead;
     return head;
 
     }
