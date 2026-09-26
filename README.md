@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | ------- |
 | [0002-add-two-numbers](https://github.com/namratasajjan6/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/namratasajjan6/DSA/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/namratasajjan6/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/namratasajjan6/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
