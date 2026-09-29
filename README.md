@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0283-move-zeroes](https://github.com/namratasajjan6/DSA/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/namratasajjan6/DSA/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/namratasajjan6/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/namratasajjan6/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/namratasajjan6/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! Solutions are au
 | [0206-reverse-linked-list](https://github.com/namratasajjan6/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/namratasajjan6/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/namratasajjan6/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/namratasajjan6/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
