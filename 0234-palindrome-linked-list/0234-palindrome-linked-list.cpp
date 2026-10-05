@@ -41,6 +41,7 @@ public:
 
             if (first->val != second->val)
                 return false;
+                
 
             first = first->next;
             second = second->next;
